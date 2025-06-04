@@ -1,4 +1,4 @@
-# 🌊 Water Body Segmentation Using Deep Learning
+# 🌊 Water Segmentation Using Deep Learning
 
 ## 📌 Overview
 This project focuses on segmenting water bodies (e.g., lakes, rivers, oceans) from images using deep learning. A segmentation model was trained on a custom water dataset using [Roboflow](https://roboflow.com), enabling pixel-level detection of water regions for applications in environmental monitoring and satellite image analysis.
